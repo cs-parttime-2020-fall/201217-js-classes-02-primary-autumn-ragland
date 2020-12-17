@@ -1,5 +1,5 @@
 # 20 12 17 JS Classes 02 Primary
-HTMl and JS files have been included in the repository. Add comments throughout your solution. Comment out any broken code before 9PM submission and provide context on what's not working. Be sure to push after 
+HTML and JS files have been included in the repository. Add comments throughout your solution. Comment out any broken code before 9PM submission and provide context on what's not working. Be sure to push after 
 
 ## GitHub Repositories 
 Create a class `GitHubRepo` with properties user name, repository name, repository description, and files. The user name, repository name, and description can be set when an instance of this class is created but all `GutHubRepo` objects should start with an empty array for the files property.
